@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+ScreenRecording_*.mp4
+.env
+*.log
+
+*vscode/
+.idea/
+
+*.рус
+*.mp4
+*.mp4
+*.mp4
